@@ -1,2 +1,2 @@
 # Website-furniture
-This is a webste only for practicing
+This is a website only for practicing
