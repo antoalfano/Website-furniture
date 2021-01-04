@@ -57,7 +57,7 @@ padding: 30px;
 }
 
 
-/*SOBRE NOSOTROS*/
+/*ABOUT US*/
 section{
     width: 100%;
     background-color: #F0F0F0;
@@ -113,3 +113,17 @@ section{
     margin-left: 300px;
 }
 
+
+/*WHAT WE OFFER*/
+#wwo{
+    background-color: #C4C3BE;
+    width: 100%;
+}
+
+.textWwo{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #9E927C;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
