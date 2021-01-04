@@ -58,8 +58,12 @@ padding: 30px;
 
 
 /*SOBRE NOSOTROS*/
-#row2{
+section{
+    width: 100%;
     background-color: #F0F0F0;
+}
+
+#row2{
     width: 100%;
     padding: 100px;
 }
@@ -78,5 +82,10 @@ padding: 30px;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: medium;
     color: #8B806A;
+}
+
+#columCenter{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 100px;
 }
 
