@@ -118,12 +118,59 @@ section{
 #wwo{
     background-color: #C4C3BE;
     width: 100%;
+    text-align: center;
 }
 
 .textWwo{
     font-family: 'Roboto Condensed', sans-serif;
     color: #9E927C;
-    font-size: 30px;
     font-weight: bolder;
     text-align: center;
+    padding: 70px;
+}
+
+#imgcards{
+    width: 200px;
+    height: 200px;
+    margin-left: 55px;
+}
+
+.card{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.card-title{
+    color: #8B806A;
+}
+
+.text-muted{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #8B806A !important; 
+}
+
+.card-deck{
+    margin-left: 170px;
+}
+
+.card2{
+    background-color: #CDCDCD;
+}
+
+#imgcards2{
+    width: 200px;
+    height: 200px;
+    margin-left: 55px;
+    background-color: #CDCDCD;
+}
+
+#imgcards3{
+    width: 200px;
+    height: 200px;
+    margin-left: 55px;
+    background-color: #EAEAEA;
+}
+
+.card3{
+    background-color: #EAEAEA;
 }
