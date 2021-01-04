@@ -85,7 +85,31 @@ section{
 }
 
 #columCenter{
-    font-family: 'Roboto Condensed', sans-serif;
-    padding: 100px;
+    padding: 75px;
+}
+
+.textColMed{
+    font-weight: bold;
+    color: #8B806A;
+}
+
+#iconsColMed{
+    width: 25px;
+    height: 25px;
+}
+
+#row3{
+    margin-top: 20px;
+}
+
+#row4{
+    margin-top: 20px;
+}
+
+#chair{
+    width: 350px;
+    height: 350px;
+    margin-top: -400px;
+    margin-left: 300px;
 }
 
