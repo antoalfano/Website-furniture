@@ -125,8 +125,7 @@ section{
     font-family: 'Roboto Condensed', sans-serif;
     color: #9E927C;
     font-weight: bolder;
-    text-align: center;
-    padding: 70px;
+    line-height: 200px;
 }
 
 #imgcards{
@@ -150,7 +149,8 @@ section{
 }
 
 .card-deck{
-    margin-left: 170px;
+    margin: 15%;
+    margin-top: 50px;
 }
 
 .card2{
