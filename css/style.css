@@ -53,7 +53,7 @@ padding: 30px;
 
 #portadaEdit{
     width: 100%;
-    height: 450px;
+    height: 550px;
 }
 
 
@@ -131,7 +131,7 @@ section{
 #imgcards{
     width: 200px;
     height: 200px;
-    margin-left: 55px;
+    margin-left: 20px;
 }
 
 .card{
@@ -160,17 +160,24 @@ section{
 #imgcards2{
     width: 200px;
     height: 200px;
-    margin-left: 55px;
+    margin-left: 10px;
     background-color: #CDCDCD;
 }
 
 #imgcards3{
     width: 200px;
     height: 200px;
-    margin-left: 55px;
+    margin-left: 10px;
     background-color: #EAEAEA;
 }
 
 .card3{
     background-color: #EAEAEA;
 }
+
+a :hover{
+    opacity: 0.25;
+}
+
+
+/*WHAT WE OFFER*/
