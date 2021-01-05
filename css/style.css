@@ -181,3 +181,15 @@ a :hover{
 
 
 /*WHAT WE OFFER*/
+.jumbotron{
+    margin-top: -20px;
+    text-align: center;
+    color: #8B806A;
+}
+
+.btn{
+    background-color: #9E927C !important;
+    border: #9E927C;
+}
+
+
